@@ -15,7 +15,3 @@ class Matriz:
                 print(self.matriz[i][j], end="")
             print(self.matriz[i][3])
 
-
-matriz1 = Matriz()
-print("Matriz 1: {}".format(matriz1))
-matriz1.formato_matriz()

@@ -9,8 +9,3 @@ class Listas:
         print(self.lista5)
 
 
-listas = Listas()
-listas.formato_lista()
-
-
-

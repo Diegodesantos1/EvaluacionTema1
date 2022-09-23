@@ -8,7 +8,4 @@ class Texto:
             print("\nLa longitud del texto es mayor o igual que 3 y menor que 10 \n TRUE")
         else:
             print("\nLa longitud del texto no es mayor o igual que 3 y menor que 10\n FALSE")
-texto1 = Texto()
-print("Texto: {}".format(texto1))
-texto1.longitud_texto()
 
