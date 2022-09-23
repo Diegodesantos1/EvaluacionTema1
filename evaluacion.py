@@ -7,3 +7,7 @@ class Matriz:
                 fila.append(int(input("Ingrese el elemento ({},{}) de la matriz: ".format(i,j))))
             fila.append(sum(fila))
             self.matriz.append(fila)
+
+
+matriz1 = Matriz()
+print("Matriz 1: {}".format(matriz1))
