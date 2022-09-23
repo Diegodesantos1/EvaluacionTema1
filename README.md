@@ -6,6 +6,8 @@ En este [repositorio](https://github.com/Diegodesantos1/EvaluacionTema1) queda r
 
 <h2 align="center">Parte 1: Ejercicio Matriz</h2>
 
+![image](https://user-images.githubusercontent.com/91721855/191992796-92567c2f-7bae-4828-ac96-0f55bed6078e.png)
+
 El código es el siguiente:
 ```python
 class Matriz:
@@ -24,6 +26,8 @@ class Matriz:
 
 <h2 align="center">Parte 2: Operadores Lógicos</h2>
 
+![image](https://user-images.githubusercontent.com/91721855/191992872-24bdd5cc-6ed3-4203-9df4-0b97acea084c.png)
+
 El código es el siguiente:
 ```python
 class Texto:
@@ -39,6 +43,8 @@ class Texto:
 
 <h2 align="center">Parte 3: Operadores Lógicos</h2>
 
+![image](https://user-images.githubusercontent.com/91721855/191992975-e36897d3-832c-494c-bc08-4994f59170ad.png)
+
 ```python
 class Listas:
     def crear_lista():
@@ -51,6 +57,8 @@ class Listas:
 ***
 
 <h2 align="center">Parte 4: Tabla</h2>
+
+![image](https://user-images.githubusercontent.com/91721855/191993039-82306d20-a321-4a81-a4e2-6c671c0cab93.png)
 
 ```python
 class Tabla:
