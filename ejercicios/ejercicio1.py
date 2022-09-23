@@ -9,6 +9,5 @@ class Matriz:
         fila1= [n1,n2,n3, n10] ; fila2= [n4, n5, n6, n11] ; fila3 = [n7,n8,n9, n11]
         print(f"La matriz es {fila1}, {fila2}, {fila3}")
 
-Matriz.crear_matriz()
 
 
