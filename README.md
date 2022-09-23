@@ -8,7 +8,6 @@ En este [repositorio](https://github.com/Diegodesantos1/EvaluacionTema1) queda r
 
 ![image](https://user-images.githubusercontent.com/91721855/191992796-92567c2f-7bae-4828-ac96-0f55bed6078e.png)
 
-El código es el siguiente:
 ```python
 class Matriz:
     def crear_matriz():
@@ -28,7 +27,6 @@ class Matriz:
 
 ![image](https://user-images.githubusercontent.com/91721855/191992872-24bdd5cc-6ed3-4203-9df4-0b97acea084c.png)
 
-El código es el siguiente:
 ```python
 class Texto:
     def crear_texto():
