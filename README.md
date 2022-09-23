@@ -1,6 +1,6 @@
 <h1 align="center">Evaluación Inicial</h1>
 ---
-En este [repositorio](https://github.com/Diegodesantos1/EvaluacionTema1) queda resuelto el ejercicio de la Tarea Inicial.
+En este [repositorio](https://github.com/Diegodesantos1/EvaluacionTema1) queda resuelto la Evaluación del Tema 1.
 
 ***
 
