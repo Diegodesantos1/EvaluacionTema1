@@ -10,7 +10,7 @@ class Tabla:
                 for j in range(columnas):
                     print(" * ", end ='')
 
-
+Tabla.crear_tabla()
 
 
 

@@ -1,5 +1,5 @@
 def lanzador():
-    eleccion=input("Elige el ejercicio que desea ejecutar: \n 1: Ejercicio Matriz \n 2: Ejercicio Texto \n 3: Ejercicio Listas \n 4: Ejercicio Tabla ")
+    eleccion=input("\n\nElige el ejercicio que desea ejecutar: \n 1: Ejercicio Matriz \n 2: Ejercicio Texto \n 3: Ejercicio Listas \n 4: Ejercicio Tabla ")
     if eleccion=="1":
         from ejercicios.ejercicio1 import Matriz
     elif eleccion=="2":
