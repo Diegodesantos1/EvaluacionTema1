@@ -8,7 +8,7 @@ class Tabla:
             for i in range(filas):
                 print("")
                 for j in range(columnas):
-                    print(" * ", end='')
+                    print(" * ", end ='')
 
 Tabla.crear_tabla()
 
