@@ -10,6 +10,10 @@ class Tabla:
                 fila.append(int(input("Ingrese el elemento ({},{}) de la tabla: ".format(i,j))))
             tabla.append(fila)
         return tabla
+    def __init__(self):
+        self.tabla = Tabla.crear_tabla()
+    def __str__(self):
+        return str(self.tabla)
 
 
 
