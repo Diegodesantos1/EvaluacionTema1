@@ -9,7 +9,13 @@ class Matriz:
             self.matriz.append(fila)
     def __str__(self):
         return str(self.matriz)
+    def formato_matriz(self):
+        for i in range(4):
+            for j in range(3):
+                print(self.matriz[i][j], end="")
+            print(self.matriz[i][3])
 
 
 matriz1 = Matriz()
 print("Matriz 1: {}".format(matriz1))
+matriz1.formato_matriz()
