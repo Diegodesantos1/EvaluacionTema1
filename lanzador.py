@@ -10,7 +10,10 @@ def lanzador():
         lanzador()
     elif eleccion=="3":
         from ejercicios.ejercicio3 import Listas
-        Listas.crear_lista()
+        print(Listas.crear_lista(0,[], 1, 10))
+        print(Listas.crear_lista(-10,[], 2, 20))
+        print(Listas.crear_lista(-19,[], 2, -1))
+        print(Listas.crear_lista(0,[], 5, 50))
         lanzador()
     elif eleccion=="4":
         from ejercicios.ejercicio4 import Tabla
