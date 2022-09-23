@@ -7,7 +7,7 @@ class Tabla:
         for i in range(filas):
             fila = []
             for j in range(columnas):
-                fila.append(int(input("Ingrese el elemento ({},{}) de la tabla: ".format(i,j))))
+                fila.append(int(input("Introduzca el elemento ({},{}) de la tabla: ".format(i,j))))
             tabla.append(fila)
         return tabla
     def __init__(self):
@@ -19,6 +19,11 @@ class Tabla:
             for j in range(len(self.tabla[i])):
                 print(self.tabla[i][j], end="")
             print()
+
+tabla = Tabla()
+print("Tabla: {}".format(tabla))
+tabla.formato_tabla()
+
 
 
 
