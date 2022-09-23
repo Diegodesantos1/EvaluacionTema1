@@ -17,7 +17,7 @@ class Matriz:
         n9=int(input("Introduce el elemento (3,3) "))
         n10= n1 + n2 + n3 ; n11 = n4 + n5 + n6 ; n12 = n7 + n8 + n9
         fila1= [n1,n2,n3, n10] ; fila2= [n4, n5, n6, n11] ; fila3 = [n7,n8,n9, n11]
-        print(f"La matriz es {fila1}, {fila2}, {fila3}")
+        print(f"La matriz es:\n\n{fila1}\n{fila2}\n{fila3}")
 ```
 
 ***
