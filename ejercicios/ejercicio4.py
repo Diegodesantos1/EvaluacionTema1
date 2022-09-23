@@ -14,6 +14,13 @@ class Tabla:
         self.tabla = Tabla.crear_tabla()
     def __str__(self):
         return str(self.tabla)
+    def formato_tabla(self):
+        for i in range(len(self.tabla)):
+            for j in range(len(self.tabla[i])):
+                print(self.tabla[i][j], end="")
+            print()
+
+
 
 
 
