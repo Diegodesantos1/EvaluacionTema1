@@ -1,5 +1,3 @@
-# Utilizando la función range() y la conversión a listas genera las siguientes listas dinámicamente:
-
 class Listas:
     def __init__(self):
         self.lista1 = list(range(11))
